@@ -1,5 +1,5 @@
-- Hello. My name is Ahmed Sherif. 22 years old.
-- I am a 3rd-year electrical enginnering student in Faculty of Engineering, Alexandria University.
+- Hello. My name is Ahmed Sherif. 23 years old.
+- I am a 4rd-year electrical enginnering student in Faculty of Engineering, Alexandria University.
 - I’m interested in Hardware design. Especially PCBs.
 - Currently, I am interested in Embedded Systems and their implementations in PCBs.
 - I’m looking to collaborate on circuit Design for some projects, as well as PCB design.
